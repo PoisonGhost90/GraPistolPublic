@@ -1,2 +1,2 @@
 # GraPistolPublic
-Game Idea Credit Eiríni Kai Senso
+Game Idea Credit EiriniKaiSenso
